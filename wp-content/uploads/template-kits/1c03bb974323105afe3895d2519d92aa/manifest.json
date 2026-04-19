@@ -1,0 +1,1211 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Petrol \u2013 Oil & Gas Industry Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/petrol\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/petrol\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/petrol\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service Details",
+            "screenshot": "screenshots\/service-details.jpg",
+            "source": "templates\/service-details.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/petrol\/template-kit\/service-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Project",
+            "screenshot": "screenshots\/project.jpg",
+            "source": "templates\/project.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/petrol\/template-kit\/project\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/petrol\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/petrol\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/petrol\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/petrol\/template-kit\/single-post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform Contact",
+            "screenshot": "screenshots\/metform-contact.jpg",
+            "source": "templates\/metform-contact.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/petrol\/template-kit\/metform-contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/petrol\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/petrol\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/petrol\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/petrol\/template-kit\/404-page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "MetForm",
+            "version": "3.1.1",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.10.0",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.5.12",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegtheme"
+        }
+    ],
+    "images": [
+        {
+            "filename": "oil-and-gas-refinery-plant-e1673760194215.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/oil-and-gas-refinery-plant-e1673760194215-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 315139,
+            "dimensions": [
+                1720,
+                1147
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-4PHFV2R"
+        },
+        {
+            "filename": "sunset-view-of-an-oil-and-gas-rig-and-platform-at-sea-e1673760217436.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/sunset-view-of-an-oil-and-gas-rig-and-platform-at-sea-e1673760217436-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 245742,
+            "dimensions": [
+                1440,
+                959
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-QFMWS7X"
+        },
+        {
+            "filename": "heavy-industry-e1673760239199.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/heavy-industry-e1673760239199-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 287490,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-BD25UT5"
+        },
+        {
+            "filename": "gas-industry-e1673760254736.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/gas-industry-e1673760254736-800x1133.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 180738,
+            "dimensions": [
+                1000,
+                1416
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-DRURW2P"
+        },
+        {
+            "filename": "oil-and-gas-processing-plant--e1673760274518.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/oil-and-gas-processing-plant--e1673760274518-800x531.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 384094,
+            "dimensions": [
+                1720,
+                1142
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P9PEQBC"
+        },
+        {
+            "filename": "old-refinery-plant--e1673760297941.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/old-refinery-plant--e1673760288105-800x1174.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 256558,
+            "dimensions": [
+                800,
+                1174
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PRUN6BW"
+        },
+        {
+            "filename": "chemical-oil-refinery-plant-power-plant-and-metal-pipe-concept-industry-e1673760315492.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/chemical-oil-refinery-plant-power-plant-and-metal-pipe-concept-industry-e1673760315492-800x449.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 140839,
+            "dimensions": [
+                1440,
+                809
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-X8CDA8E"
+        },
+        {
+            "filename": "petroleum-oil-refinery-barrel-tank-petrochemical-plant-factory-chemical-industry-oil-and-gas-petr-e1673760333544.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/petroleum-oil-refinery-barrel-tank-petrochemical-plant-factory-chemical-industry-oil-and-gas-petr-e1673760333544-800x451.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 226016,
+            "dimensions": [
+                1920,
+                1082
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-LVX9AWV"
+        },
+        {
+            "filename": "gas-industry-1-e1673760459258.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/gas-industry-1-e1673760459258-800x1100.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 192197,
+            "dimensions": [
+                1000,
+                1375
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-J4JTEQN"
+        },
+        {
+            "filename": "industrial-zone-in-milazzo-town-on-sicily-e1673760357800.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/industrial-zone-in-milazzo-town-on-sicily-e1673760357800-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 331253,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PRK3H6N"
+        },
+        {
+            "filename": "E4Z6KX9.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2022\/12\/E4Z6KX9.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 186610,
+            "dimensions": [
+                497,
+                497
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-E4Z6KX9"
+        },
+        {
+            "filename": "user-2-2x.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2022\/12\/user-2-2x.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 235395,
+            "dimensions": [
+                497,
+                497
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-EWC24GN"
+        },
+        {
+            "filename": "user-4-2x.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2022\/12\/user-4-2x.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 227228,
+            "dimensions": [
+                497,
+                497
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GMS7E8Z"
+        },
+        {
+            "filename": "oil-depot-e1673760469706.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/oil-depot-e1673760469706-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 333637,
+            "dimensions": [
+                1820,
+                1212
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-7C9TRA3"
+        },
+        {
+            "filename": "oil-refineries-e1673760498392.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/oil-refineries-e1673760498392-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 205228,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PZZCKH6"
+        },
+        {
+            "filename": "industrial-factory-worker-working-in-metal-manufacturing-industry-e1673760509314.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/industrial-factory-worker-working-in-metal-manufacturing-industry-e1673760509314-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 201258,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-25JKF89"
+        },
+        {
+            "filename": "industrial-engineer-work-on-site-engineer-visit-and-inspection-site-engineer-at-industrial-site--e1673760527857.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/industrial-engineer-work-on-site-engineer-visit-and-inspection-site-engineer-at-industrial-site--e1673760527857-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 161169,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WXSAC6J"
+        },
+        {
+            "filename": "mature-workman-in-hardhat-and-workwear-fixing-shaft-of-industrial-machine-e1673760549197.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/mature-workman-in-hardhat-and-workwear-fixing-shaft-of-industrial-machine-e1673760549197-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 195543,
+            "dimensions": [
+                1440,
+                961
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4Y9P6DC"
+        },
+        {
+            "filename": "women-worker-at-forklift-driver-happy-working-in-industry-factory-logistic-ship--e1673760482343.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/women-worker-at-forklift-driver-happy-working-in-industry-factory-logistic-ship--e1673760482343-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 175205,
+            "dimensions": [
+                1000,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2XTB2HK"
+        },
+        {
+            "filename": "gas-industry-2-e1673760566614.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/gas-industry-2-e1673760566614-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 346459,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-DKPUQ4T"
+        },
+        {
+            "filename": "oil-refineries-1-e1673760576992.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/oil-refineries-1-e1673760576992-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 331152,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P5LCPRF"
+        },
+        {
+            "filename": "bearded-machine-operator-posing-for-photography-ZXF4DY3.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/bearded-machine-operator-posing-for-photography-ZXF4DY3-800x1040.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 97325,
+            "dimensions": [
+                1000,
+                1300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZXF4DY3"
+        },
+        {
+            "filename": "professional-young-industrial-factory-woman-employ-BAG2MGU.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/professional-young-industrial-factory-woman-employ-BAG2MGU-800x1040.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 102007,
+            "dimensions": [
+                1000,
+                1300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BAG2MGU"
+        },
+        {
+            "filename": "african-american-elderly-woman-worker-in-industria-C7W38XZ.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/african-american-elderly-woman-worker-in-industria-C7W38XZ-800x1040.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 94378,
+            "dimensions": [
+                1000,
+                1300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-C7W38XZ"
+        },
+        {
+            "filename": "joyful-male-engineer-standing-by-tractor-at-factor-B54T3VP.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/joyful-male-engineer-standing-by-tractor-at-factor-B54T3VP-800x1040.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 135145,
+            "dimensions": [
+                1000,
+                1300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-B54T3VP"
+        },
+        {
+            "filename": "industry-plant-e1673760591824.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/industry-plant-e1673760591824-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 317455,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-6M3X7Y3"
+        },
+        {
+            "filename": "oil-pipeline-e1673760612825.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/oil-pipeline-e1673760612825-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                }
+            ],
+            "filesize": 250489,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-9WNMKVM"
+        },
+        {
+            "filename": "mature-man-on-construction-site-or-business-industry-site--e1673760629633.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/mature-man-on-construction-site-or-business-industry-site--e1673760629633-800x1198.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                }
+            ],
+            "filesize": 152082,
+            "dimensions": [
+                1000,
+                1498
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3FC4KHM"
+        },
+        {
+            "filename": "chemical-plant-exterior-e1673760638467.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/chemical-plant-exterior-e1673760638467-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                }
+            ],
+            "filesize": 204300,
+            "dimensions": [
+                1000,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-JMV365J"
+        },
+        {
+            "filename": "oil-refinery-industry-smoke-stacks-and-tanker-lorry-or-truck-e1673760652504.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/oil-refinery-industry-smoke-stacks-and-tanker-lorry-or-truck-e1673760652504-800x640.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                }
+            ],
+            "filesize": 224776,
+            "dimensions": [
+                1440,
+                1152
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PU5SWMN"
+        },
+        {
+            "filename": "gas-industry-3-e1673760662983.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/gas-industry-3-e1673760662983-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 314515,
+            "dimensions": [
+                1720,
+                1146
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-VSK279P"
+        },
+        {
+            "filename": "oil-and-gas-processing-plant-1-2-e1673760708779.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/oil-and-gas-processing-plant-1-2-e1673760708779-800x531.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 284506,
+            "dimensions": [
+                1440,
+                956
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PU6QQ4B"
+        },
+        {
+            "filename": "oil-and-gas-industry-refinery-at-twilight-factory-plant-e1673760768616.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/oil-and-gas-industry-refinery-at-twilight-factory-plant-e1673760768616-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 342115,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-MCJGSP4"
+        },
+        {
+            "filename": "gas-tanks-and-containers-e1673760800136.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/gas-tanks-and-containers-e1673760800136-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 311354,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PGNRDMC"
+        },
+        {
+            "filename": "industry-worker-e1673760852766.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/industry-worker-e1673760852766-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 301669,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NFK7PHM"
+        },
+        {
+            "filename": "senior-man-working-at-modern-factory-TNQ8KU3.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/senior-man-working-at-modern-factory-TNQ8KU3-800x1040.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 103317,
+            "dimensions": [
+                1000,
+                1300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TNQ8KU3"
+        },
+        {
+            "filename": "smiling-african-engineer-standing-at-industrial-si-SMSQDNQ.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/smiling-african-engineer-standing-at-industrial-si-SMSQDNQ-800x1040.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 119236,
+            "dimensions": [
+                1000,
+                1300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-SMSQDNQ"
+        },
+        {
+            "filename": "factory-engineer-operating-machines-in-industry-fa-WE8ZLGU.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/factory-engineer-operating-machines-in-industry-fa-WE8ZLGU-800x1040.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 91163,
+            "dimensions": [
+                1000,
+                1300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WE8ZLGU"
+        },
+        {
+            "filename": "happy-young-female-engineer-of-modern-factory-cros-WTRBJ32.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/happy-young-female-engineer-of-modern-factory-cros-WTRBJ32-800x1040.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 127600,
+            "dimensions": [
+                1000,
+                1300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WTRBJ32"
+        },
+        {
+            "filename": "oil-and-gas-refinery-plant-1-e1673760825832.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/oil-and-gas-refinery-plant-1-e1673760825832-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 343333,
+            "dimensions": [
+                1720,
+                1146
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-AUFZFCD"
+        },
+        {
+            "filename": "industry-e1673760621430.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/industry-e1673760621430-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 323595,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-XVQNKJV"
+        },
+        {
+            "filename": "worker-in-uniform-and-helmet-works-on-lathe-e1673760407710.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/worker-in-uniform-and-helmet-works-on-lathe-e1673760407710-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 132842,
+            "dimensions": [
+                1440,
+                961
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LUR7VNJ"
+        },
+        {
+            "filename": "industrial-building-e1673760862277.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/industrial-building-e1673760862277-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 277510,
+            "dimensions": [
+                1820,
+                1213
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-YGN8BD7"
+        },
+        {
+            "filename": "oil-and-gas-platform-in-norway-energy-industry-petroleum-exploration-e1673760871890.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/oil-and-gas-platform-in-norway-energy-industry-petroleum-exploration-e1673760871890-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 275808,
+            "dimensions": [
+                1440,
+                958
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PUW2R6J"
+        },
+        {
+            "filename": "natural-gas-processing-site-e1673760886493.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/natural-gas-processing-site-e1673760886493-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 187653,
+            "dimensions": [
+                1440,
+                958
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P24JFHC"
+        },
+        {
+            "filename": "smoke-stacks-in-industry-against-sky-e1673760843403.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/smoke-stacks-in-industry-against-sky-e1673760843403-800x572.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 346280,
+            "dimensions": [
+                1720,
+                1229
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-J9LU6CF"
+        },
+        {
+            "filename": "petrol-logo1-e1672720046215.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/petrol-logo1-800x267.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 36682,
+            "dimensions": [
+                800,
+                267
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/gear-assembly-logo_828405.htm"
+        },
+        {
+            "filename": "oil-and-gas-industry-e1673760447203.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/oil-and-gas-industry-e1673760447203-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 371980,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-Z4WGRPB"
+        },
+        {
+            "filename": "petrol-logo2-e1672720054223.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/petrol-logo2-800x267.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 34779,
+            "dimensions": [
+                800,
+                267
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/gear-assembly-logo_828405.htm"
+        },
+        {
+            "filename": "oil-refineries-2-e1673760602966.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/petrol\/wp-content\/uploads\/sites\/323\/2023\/01\/oil-refineries-2-e1673760602966-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 207262,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PTBQUBR"
+        }
+    ]
+}
